@@ -14,3 +14,4 @@ class BankAccount {
 }
 const myAccount = new BankAccount(545, "Hume", 54);
 console.log(myAccount);
+console.log(myAccount);
