@@ -1,9 +1,9 @@
-type PersonType = {
-  name: string;
-  age: number;
-  address: string;
-};
+// type PersonType = {
+//   name: string;
+//   age: number;
+//   address: string;
+// };
 
-type newType = "name" | "age" | "address";
+// type newType = "name" | "age" | "address";
 
-type newTypeUsingKeyof = keyof PersonType;
+// type newTypeUsingKeyof = keyof PersonType;

@@ -1,3 +1,3 @@
-const names=['abul','tabul','sabul']
+// const names = ["abul", "tabul", "sabul"];
 
-const Human:[number,string]=[386,"akkas"]
+// const Human: [number, string] = [386, "akkas"];
